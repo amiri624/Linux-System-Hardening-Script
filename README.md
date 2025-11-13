@@ -38,6 +38,6 @@ The script modifies SSH and security settings — make sure you have alternate a
 
 🧑‍💻 Author: Meisam Amiri
 Linux System Administrator / DevOps Engineer
-🌐 https://github.com/YOURUSERNAME
+🌐 https://github.com/amiri624
 
 ---
