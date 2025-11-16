@@ -5,7 +5,7 @@
 A simple Bash script that automates basic Linux hardening tasks.  
 It’s designed for system administrators and DevOps engineers to quickly apply security best practices.
 
----
+
 
 ## 🧠 Features
 
@@ -18,7 +18,7 @@ It’s designed for system administrators and DevOps engineers to quickly apply 
 - Enable automatic updates  
 - Scan for world-writable files  
 
----
+
 
 ## 🚀 Usage
 
@@ -26,15 +26,6 @@ chmod +x harden.sh
 sudo ./harden.sh
 
 
----
-
-⚠️ Warning
-
-Run this only in a test or non-production environment first.
-The script modifies SSH and security settings — make sure you have alternate admin access.
-
-
----
 
 🧑‍💻 Author: Meisam Amiri
 Linux System Administrator / DevOps Engineer
